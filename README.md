@@ -2,7 +2,7 @@
 The public TODO list.
 
 - [ ] Create favicon.
-- [ ] Setup initial website.
+- [x] Setup initial website. (GhitaB, 10.02.2019)
 - [x] Logo design. (GhitaB, 10.02.2019)
 - [x] Solve hosting. (Ionică B., 10.02.2019)
 - [x] Buy domain. (Ionică B., 10.02.2019)

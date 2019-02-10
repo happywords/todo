@@ -1,6 +1,10 @@
 # todo
 The public TODO list.
 
+- [ ] Create favicon.
+- [ ] Logo design.
+- [ ] Choose a font.
+- [ ] Choose colors palette.
 - [ ] Setup initial website.
 - [ ] Solve hosting.
 - [ ] Buy domain.

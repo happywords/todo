@@ -1,13 +1,16 @@
 # todo
 The public TODO list.
 
+- [ ] Improve favicon.
+- [ ] Improve logo.
 - [ ] Contact page.
 - [ ] Add pages.
 - [ ] Add some intial content.
 - [ ] Add some intial categories.
 - [ ] Customize theme.
-- [ ] Find a nice theme.
-- [ ] Create favicon.
+- [ ] Add Google Analytics.
+- [x] Find a nice theme. (GhitaB, 10.02.2019)
+- [x] Create favicon. (GhitaB, 10.02.2019)
 - [x] Setup initial website. (GhitaB, 10.02.2019)
 - [x] Logo design. (GhitaB, 10.02.2019)
 - [x] Solve hosting. (Ionică B., 10.02.2019)

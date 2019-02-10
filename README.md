@@ -8,7 +8,7 @@ The public TODO list.
 - [ ] Add some intial content.
 - [ ] Add some intial categories.
 - [ ] Customize theme.
-- [ ] Add Google Analytics.
+- [x] Add Google Analytics.
 - [x] Find a nice theme. (GhitaB, 10.02.2019)
 - [x] Create favicon. (GhitaB, 10.02.2019)
 - [x] Setup initial website. (GhitaB, 10.02.2019)

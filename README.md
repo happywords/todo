@@ -4,7 +4,7 @@ The public TODO list.
 - [ ] Create favicon.
 - [ ] Logo design.
 - [ ] Choose a font.
-- [ ] Choose colors palette.
+- [x] Choose colors palette.
 - [ ] Setup initial website.
 - [ ] Solve hosting.
 - [ ] Buy domain.

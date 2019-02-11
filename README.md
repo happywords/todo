@@ -1,11 +1,11 @@
 # todo
 The public TODO list.
 
-- [ ] Hide post (featured) image in post view.
 - [ ] http -> https.
 - [ ] Add some intial content.
 - [ ] Add some intial categories.
 - [ ] Customize theme.
+- [x] Hide post (featured) image in post view. (GhitaB, 11.02.2019)
 - [x] Add pages. (GhitaB, 11.02.2019)
 - [x] Contact page. (GhitaB, Ionică B., 11.02.2019)
 - [x] Improve favicon. (GhitaB, 11.02.2019)

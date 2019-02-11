@@ -2,13 +2,13 @@
 The public TODO list.
 
 - [ ] http -> https.
-- [ ] Improve favicon.
-- [ ] Improve logo.
 - [ ] Contact page.
 - [ ] Add pages.
 - [ ] Add some intial content.
 - [ ] Add some intial categories.
 - [ ] Customize theme.
+- [x] Improve favicon. (GhitaB, 11.02.2019)
+- [x] Improve logo. (GhitaB, 11.02.2019)
 - [x] Add Google Analytics. (GhitaB, 10.02.2019)
 - [x] Find a nice theme. (GhitaB, 10.02.2019)
 - [x] Create favicon. (GhitaB, 10.02.2019)

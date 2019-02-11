@@ -2,6 +2,7 @@
 The public TODO list.
 
 - [ ] Customize theme.
+- [ ] Add space before READ MORE link in summary post.
 - [x] http -> https. (Ionică B., 11.02.2019)
 - [x] Add some intial content. (GhitaB, 11.02.2019)
 - [x] Add some intial categories. (GhitaB, 11.02.2019)

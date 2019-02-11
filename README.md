@@ -3,11 +3,11 @@ The public TODO list.
 
 - [ ] Hide post (featured) image in post view.
 - [ ] http -> https.
-- [ ] Contact page.
 - [ ] Add pages.
 - [ ] Add some intial content.
 - [ ] Add some intial categories.
 - [ ] Customize theme.
+- [x] Contact page.
 - [x] Improve favicon. (GhitaB, 11.02.2019)
 - [x] Improve logo. (GhitaB, 11.02.2019)
 - [x] Add Google Analytics. (GhitaB, 10.02.2019)

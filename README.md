@@ -2,9 +2,9 @@
 The public TODO list.
 
 - [ ] http -> https.
-- [ ] Add some intial content.
-- [ ] Add some intial categories.
 - [ ] Customize theme.
+- [x] Add some intial content. (GhitaB, 11.02.2019)
+- [x] Add some intial categories. (GhitaB, 11.02.2019)
 - [x] Hide post (featured) image in post view. (GhitaB, 11.02.2019)
 - [x] Add pages. (GhitaB, 11.02.2019)
 - [x] Contact page. (GhitaB, Ionică B., 11.02.2019)

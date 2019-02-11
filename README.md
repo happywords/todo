@@ -7,7 +7,7 @@ The public TODO list.
 - [ ] Add some intial content.
 - [ ] Add some intial categories.
 - [ ] Customize theme.
-- [x] Contact page.
+- [x] Contact page. (GhitaB, Ionică B., 11.02.2019)
 - [x] Improve favicon. (GhitaB, 11.02.2019)
 - [x] Improve logo. (GhitaB, 11.02.2019)
 - [x] Add Google Analytics. (GhitaB, 10.02.2019)

@@ -1,8 +1,8 @@
 # todo
 The public TODO list.
 
-- [ ] http -> https.
 - [ ] Customize theme.
+- [x] http -> https. (Ionică B., 11.02.2019)
 - [x] Add some intial content. (GhitaB, 11.02.2019)
 - [x] Add some intial categories. (GhitaB, 11.02.2019)
 - [x] Hide post (featured) image in post view. (GhitaB, 11.02.2019)

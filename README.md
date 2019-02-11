@@ -1,6 +1,7 @@
 # todo
 The public TODO list.
 
+- [ ] Hide post (featured) image in post view.
 - [ ] http -> https.
 - [ ] Contact page.
 - [ ] Add pages.

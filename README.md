@@ -1,6 +1,7 @@
 # todo
 The public TODO list.
 
+- [ ] http -> https.
 - [ ] Improve favicon.
 - [ ] Improve logo.
 - [ ] Contact page.

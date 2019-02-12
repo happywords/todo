@@ -1,6 +1,10 @@
 # todo
 The public TODO list.
 
+- [ ] Add BTC donations option.
+- [ ] Add paypal donations option.
+- [ ] Link patreon account.
+- [ ] Update patreon profile.
 - [ ] Add my existing happy drawings, paintings. 
 - [ ] Add links to happywords from all my blogs and pages.
 - [ ] Customize theme.

@@ -6,10 +6,10 @@ The public TODO list.
 - [ ] Add paypal donations option.
 - [ ] Link patreon account.
 - [ ] Update patreon profile.
-- [ ] Add my existing happy drawings, paintings. 
-- [ ] Add links to happywords from all my blogs and pages.
-- [x] Customize theme.
-- [x] Add space before READ MORE link in summary post.
+- [x] Add links to happywords from all my blogs and pages. (GhitaB, 13.02.2019)
+- [x] Customize theme. (GhitaB, 13.02.2019)
+- [x] Add space before READ MORE link in summary post. (GhitaB, 13.02.2019)
+- [x] Add my existing happy drawings, paintings. (GhitaB, 12-13.02.2019)
 - [x] http -> https. (Ionică B., 11.02.2019)
 - [x] Add some intial content. (GhitaB, 11.02.2019)
 - [x] Add some intial categories. (GhitaB, 11.02.2019)

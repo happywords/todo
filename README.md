@@ -2,6 +2,7 @@
 The public TODO list.
 
 - [ ] Integrate js app (search words maker).
+- [ ] Search word maker: export pdf or / and print option.
 - [ ] Add BTC donations option.
 - [ ] Add paypal donations option.
 - [ ] Link patreon account.

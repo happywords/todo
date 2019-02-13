@@ -9,7 +9,7 @@ The public TODO list.
 - [ ] Add my existing happy drawings, paintings. 
 - [ ] Add links to happywords from all my blogs and pages.
 - [ ] Customize theme.
-- [ ] Add space before READ MORE link in summary post.
+- [x] Add space before READ MORE link in summary post.
 - [x] http -> https. (Ionică B., 11.02.2019)
 - [x] Add some intial content. (GhitaB, 11.02.2019)
 - [x] Add some intial categories. (GhitaB, 11.02.2019)

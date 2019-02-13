@@ -1,6 +1,17 @@
 # todo
 The public TODO list.
 
+- [ ] Checkpoint: total 100000 pageviews.
+- [ ] Checkpoint: total 50000 pageviews.
+- [ ] Checkpoint: total 30000 pageviews.
+- [ ] Checkpoint: total 20000 pageviews.
+- [ ] Checkpoint: total 15000 pageviews.
+- [ ] Checkpoint: total 11000 pageviews.
+- [ ] Checkpoint: total 10000 pageviews.
+- [ ] Checkpoint: total 5000 pageviews.
+- [ ] Checkpoint: total 2000 pageviews.
+- [ ] Checkpoint: total 1000 pageviews.
+- [ ] Checkpoint: total 500 pageviews.
 - [ ] Integrate js app (search words maker).
 - [ ] Search word maker: export pdf or / and print option.
 - [ ] Add BTC donations option.

@@ -8,7 +8,7 @@ The public TODO list.
 - [ ] Update patreon profile.
 - [ ] Add my existing happy drawings, paintings. 
 - [ ] Add links to happywords from all my blogs and pages.
-- [ ] Customize theme.
+- [x] Customize theme.
 - [x] Add space before READ MORE link in summary post.
 - [x] http -> https. (Ionică B., 11.02.2019)
 - [x] Add some intial content. (GhitaB, 11.02.2019)

@@ -19,6 +19,7 @@ The public TODO list.
 - [ ] Link patreon account.
 - [ ] Update patreon profile.
 - [ ] Add Google Analytics details in Privacy Policy page.
+- [ ] Option to subscribe for new posts.
 - [ ] Add it to projects list.
 - [x] Tags cloud. (GhitaB, 14.02.2019)
 - [x] Install photo gallery plugin. (GhitaB, 14.02.2019)

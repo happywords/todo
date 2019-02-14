@@ -18,8 +18,8 @@ The public TODO list.
 - [ ] Add paypal donations option.
 - [ ] Link patreon account.
 - [ ] Update patreon profile.
-- [ ] Install photo gallery plugin.
 - [ ] Add Google Analytics details in Privacy Policy page.
+- [x] Install photo gallery plugin. (GhitaB, 14.02.2019)
 - [x] Add links to happywords from all my blogs and pages. (GhitaB, 13.02.2019)
 - [x] Customize theme. (GhitaB, 13.02.2019)
 - [x] Add space before READ MORE link in summary post. (GhitaB, 13.02.2019)

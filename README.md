@@ -20,7 +20,7 @@ The public TODO list.
 - [ ] Update patreon profile.
 - [ ] Add Google Analytics details in Privacy Policy page.
 - [ ] Option to subscribe for new posts.
-- [x] Add it to projects list.
+- [x] Add it to projects list. (GhitaB, 15.02.2019)
 - [x] Tags cloud. (GhitaB, 14.02.2019)
 - [x] Install photo gallery plugin. (GhitaB, 14.02.2019)
 - [x] Add links to happywords from all my blogs and pages. (GhitaB, 13.02.2019)

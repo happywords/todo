@@ -21,6 +21,7 @@ The public TODO list.
 - [ ] Add Google Analytics details in Privacy Policy page.
 - [ ] Option to subscribe for new posts.
 - [ ] Add RSS widget.
+- [ ] Emoji or emoticons? Check how to use in posts / pages.
 - [x] Add it to projects list. (GhitaB, 15.02.2019)
 - [x] Tags cloud. (GhitaB, 14.02.2019)
 - [x] Install photo gallery plugin. (GhitaB, 14.02.2019)

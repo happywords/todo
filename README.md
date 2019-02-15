@@ -14,7 +14,6 @@ The public TODO list.
 - [ ] Checkpoint: total 500 pageviews.
 - [ ] Integrate js app (search words maker).
 - [ ] Search word maker: export pdf or / and print option.
-- [ ] Add BTC donations option.
 - [ ] Add paypal donations option.
 - [ ] Link patreon account.
 - [ ] Update patreon profile.
@@ -22,6 +21,7 @@ The public TODO list.
 - [ ] Option to subscribe for new posts.
 - [ ] Add RSS widget.
 - [ ] Emoji or emoticons? Check how to use in posts / pages.
+- [x] Add BTC donations option.
 - [x] Add it to projects list. (GhitaB, 15.02.2019)
 - [x] Tags cloud. (GhitaB, 14.02.2019)
 - [x] Install photo gallery plugin. (GhitaB, 14.02.2019)

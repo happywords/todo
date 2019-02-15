@@ -11,7 +11,6 @@ The public TODO list.
 - [ ] Checkpoint: total 5000 pageviews.
 - [ ] Checkpoint: total 2000 pageviews.
 - [ ] Checkpoint: total 1000 pageviews.
-- [ ] Checkpoint: total 500 pageviews.
 - [ ] Integrate js app (search words maker).
 - [ ] Search word maker: export pdf or / and print option.
 - [ ] Add paypal donations option.
@@ -21,6 +20,7 @@ The public TODO list.
 - [ ] Option to subscribe for new posts.
 - [ ] Add RSS widget.
 - [ ] Emoji or emoticons? Check how to use in posts / pages.
+- [x] Checkpoint: total 500 pageviews. (15.02.2019)
 - [x] Add BTC donations option. (GhitaB, 15.02.2019)
 - [x] Add it to projects list. (GhitaB, 15.02.2019)
 - [x] Tags cloud. (GhitaB, 14.02.2019)

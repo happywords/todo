@@ -13,11 +13,11 @@ The public TODO list.
 - [ ] Checkpoint: total 1000 pageviews.
 - [ ] Integrate js app (search words maker).
 - [ ] Search word maker: export pdf or / and print option.
-- [ ] Add paypal donations option.
 - [ ] Link patreon account.
 - [ ] Update patreon profile.
 - [ ] Option to subscribe for new posts.
 - [ ] Add RSS widget.
+- [x] Add paypal donations option. (GhitaB, 16.02.2019)
 - [x] Add Google Analytics details in Privacy Policy page. (GhitaB, 16.02.2019)
 - [x] Add cookies consent pop-up. (GhitaB, 16.02.2019)
 - [x] Emoji or emoticons? Check how to use in posts / pages. (GhitaB, 16.02.2019)

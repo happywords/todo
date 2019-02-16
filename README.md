@@ -19,7 +19,7 @@ The public TODO list.
 - [ ] Add Google Analytics details in Privacy Policy page.
 - [ ] Option to subscribe for new posts.
 - [ ] Add RSS widget.
-- [ ] Emoji or emoticons? Check how to use in posts / pages.
+- [x] Emoji or emoticons? Check how to use in posts / pages.
 - [x] Checkpoint: total 500 pageviews. (15.02.2019)
 - [x] Add BTC donations option. (GhitaB, 15.02.2019)
 - [x] Add it to projects list. (GhitaB, 15.02.2019)

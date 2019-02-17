@@ -15,7 +15,7 @@ The public TODO list.
 - [ ] Link patreon account.
 - [ ] Option to subscribe for new posts.
 - [ ] Add RSS widget.
-- [ ] Update patreon profile. (GhitaB, 17.02.2019)
+- [x] Update patreon profile. (GhitaB, 17.02.2019)
 - [x] Create applications structure. Copy on FTP. (GhitaB, 17.02.2019)
 - [x] Crossword Puzzle Generator: print option. (GhitaB, 17.02.2019)
 - [x] Add paypal donations option. (GhitaB, 16.02.2019)

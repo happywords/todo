@@ -12,9 +12,9 @@ The public TODO list.
 - [ ] Checkpoint: total 2000 pageviews.
 - [ ] Checkpoint: total 1000 pageviews.
 - [ ] Integrate js app (Crossword Puzzle Generator).
-- [ ] Link patreon account.
 - [ ] Option to subscribe for new posts.
 - [ ] Add RSS widget.
+- [x] Link patreon account. (GhitaB, 17.02.2019)
 - [x] Update patreon profile. (GhitaB, 17.02.2019)
 - [x] Create applications structure. Copy on FTP. (GhitaB, 17.02.2019)
 - [x] Crossword Puzzle Generator: print option. (GhitaB, 17.02.2019)

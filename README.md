@@ -11,12 +11,12 @@ The public TODO list.
 - [ ] Checkpoint: total 5000 pageviews.
 - [ ] Checkpoint: total 2000 pageviews.
 - [ ] Checkpoint: total 1000 pageviews.
-- [ ] Integrate js app (search words maker).
-- [ ] Search word maker: export pdf or / and print option.
+- [ ] Integrate js app (Crossword Puzzle Generator).
 - [ ] Link patreon account.
 - [ ] Update patreon profile.
 - [ ] Option to subscribe for new posts.
 - [ ] Add RSS widget.
+- [x] Crossword Puzzle Generator: print option. (GhitaB, 17.02.2019)
 - [x] Add paypal donations option. (GhitaB, 16.02.2019)
 - [x] Add Google Analytics details in Privacy Policy page. (GhitaB, 16.02.2019)
 - [x] Add cookies consent pop-up. (GhitaB, 16.02.2019)

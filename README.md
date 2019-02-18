@@ -11,7 +11,11 @@ The public TODO list.
 - [ ] Checkpoint: total 5000 pageviews.
 - [ ] Checkpoint: total 2000 pageviews.
 - [ ] Checkpoint: total 1000 pageviews.
+- [ ] Publish other coloring pages.
+- [ ] Publish Miracles of Jesus coloring pages.
 - [ ] Create Coloring pages category.
+- [ ] Adapt and include Guess my number.
+- [ ] Adapt and include Puzzle with numbers.
 - [ ] Create Games category.
 - [x] Integrate js app (Crossword Puzzle Generator). (GhitaB, 17.02.2019)
 - [x] Link patreon account. (GhitaB, 17.02.2019)

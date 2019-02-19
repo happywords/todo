@@ -16,6 +16,8 @@ The public TODO list.
 - [ ] Create Coloring pages category.
 - [ ] Adapt and include Guess my number.
 - [ ] Adapt and include Puzzle with numbers.
+- [ ] Gumroad: Miracles of Jesus coloring pages.
+- [x] Set Gumroad account. (GhitaB, 19.02.2019)
 - [x] Create Games category. (GhitaB, 18.02.2019)
 - [x] Integrate js app (Crossword Puzzle Generator). (GhitaB, 17.02.2019)
 - [x] Link patreon account. (GhitaB, 17.02.2019)

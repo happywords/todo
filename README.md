@@ -13,10 +13,10 @@ The public TODO list.
 - [ ] Checkpoint: total 1000 pageviews.
 - [ ] Publish other coloring pages.
 - [ ] Publish Miracles of Jesus coloring pages.
-- [ ] Create Coloring pages category.
 - [ ] Adapt and include Guess my number.
 - [ ] Adapt and include Puzzle with numbers.
 - [ ] Gumroad: Miracles of Jesus coloring pages.
+- [x] Create Coloring pages category. (GhitaB, 24.02.2019)
 - [x] Set Gumroad account. (GhitaB, 19.02.2019)
 - [x] Create Games category. (GhitaB, 18.02.2019)
 - [x] Integrate js app (Crossword Puzzle Generator). (GhitaB, 17.02.2019)

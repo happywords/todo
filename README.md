@@ -14,7 +14,7 @@ The public TODO list.
 - [ ] Publish other coloring pages.
 - [ ] Adapt and include Guess my number.
 - [ ] Adapt and include Puzzle with numbers.
-- [ ] Add Shop section.
+- [x] Add Shop section. (GhitaB, 24.02.2019)
 - [x] Gumroad: Miracles of Jesus coloring pages. (GhitaB, 24.02.2019)
 - [x] Publish Miracles of Jesus coloring pages. (GhitaB, 24.02.2019)
 - [x] Create Coloring pages category. (GhitaB, 24.02.2019)

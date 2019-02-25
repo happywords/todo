@@ -22,10 +22,10 @@ The public TODO list.
 - [ ] Checkpoint: 300 instagram followers.
 - [ ] Checkpoint: 200 instagram followers.
 - [ ] Checkpoint: 100 instagram followers.
-- [ ] Checkpoint: 50 instagram followers.
 - [ ] Publish other coloring pages.
 - [ ] Adapt and include Guess my number.
 - [ ] Adapt and include Puzzle with numbers.
+- [x] Checkpoint: 50 instagram followers. (25.02.2019)
 - [x] Create Instagram account, add link in sidebar. (GhitaB, 24.02.2019)
 - [x] Add Shop section. (GhitaB, 24.02.2019)
 - [x] Gumroad: Miracles of Jesus coloring pages. (GhitaB, 24.02.2019)

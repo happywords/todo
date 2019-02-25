@@ -11,6 +11,18 @@ The public TODO list.
 - [ ] Checkpoint: total 5000 pageviews.
 - [ ] Checkpoint: total 2000 pageviews.
 - [ ] Checkpoint: total 1000 pageviews.
+- [ ] Checkpoint: 10000 instagram followers.
+- [ ] Checkpoint: 5000 instagram followers.
+- [ ] Checkpoint: 4000 instagram followers.
+- [ ] Checkpoint: 3000 instagram followers.
+- [ ] Checkpoint: 2000 instagram followers.
+- [ ] Checkpoint: 1000 instagram followers.
+- [ ] Checkpoint: 500 instagram followers.
+- [ ] Checkpoint: 400 instagram followers.
+- [ ] Checkpoint: 300 instagram followers.
+- [ ] Checkpoint: 200 instagram followers.
+- [ ] Checkpoint: 100 instagram followers.
+- [ ] Checkpoint: 50 instagram followers.
 - [ ] Publish other coloring pages.
 - [ ] Adapt and include Guess my number.
 - [ ] Adapt and include Puzzle with numbers.

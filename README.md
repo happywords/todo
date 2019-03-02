@@ -26,7 +26,8 @@ The public TODO list.
 - [ ] Adapt and include Guess my number.
 - [ ] Adapt and include Puzzle with numbers.
 - [ ] Improve content structure, add menus.
-- [ ] Promote website.
+- [ ] Promote website: more instagram posts.
+- [ ] Promote website: links.
 - [ ] Add romanian articles.
 - [ ] Add romanian category.
 - [ ] Explore plugins.

@@ -25,6 +25,7 @@ The public TODO list.
 - [ ] Publish other coloring pages.
 - [ ] Adapt and include Guess my number.
 - [ ] Adapt and include Puzzle with numbers.
+- [ ] Promote website.
 - [ ] Add romanian articles.
 - [ ] Add romanian category.
 - [x] Checkpoint: 50 instagram followers. (25.02.2019)

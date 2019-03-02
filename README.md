@@ -29,6 +29,7 @@ The public TODO list.
 - [ ] Promote website.
 - [ ] Add romanian articles.
 - [ ] Add romanian category.
+- [ ] Explore widgets.
 - [ ] Fix favicon issue.
 - [x] Checkpoint: 50 instagram followers. (25.02.2019)
 - [x] Create Instagram account, add link in sidebar. (GhitaB, 24.02.2019)

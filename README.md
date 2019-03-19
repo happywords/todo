@@ -10,7 +10,6 @@ The public TODO list.
 - [ ] Checkpoint: total 10000 pageviews.
 - [ ] Checkpoint: total 5000 pageviews.
 - [ ] Checkpoint: total 2000 pageviews.
-- [ ] Checkpoint: total 1000 pageviews.
 - [ ] Checkpoint: 10000 instagram followers.
 - [ ] Checkpoint: 5000 instagram followers.
 - [ ] Checkpoint: 4000 instagram followers.
@@ -33,6 +32,7 @@ The public TODO list.
 - [ ] Add romanian category.
 - [ ] Explore plugins.
 - [ ] Explore widgets.
+- [x] Checkpoint: total 1000 pageviews. (19.03.2019)
 - [x] Fix favicon issue.
 - [x] Checkpoint: 50 instagram followers. (25.02.2019)
 - [x] Create Instagram account, add link in sidebar. (GhitaB, 24.02.2019)

@@ -31,9 +31,9 @@ The public TODO list.
 - [ ] Add romanian articles.
 - [ ] Add romanian category.
 - [ ] Explore plugins.
-- [ ] Explore widgets.
+- [x] Explore widgets. (GhitaB, 20.03.2019)
 - [x] Checkpoint: total 1000 pageviews. (19.03.2019)
-- [x] Fix favicon issue.
+- [x] Fix favicon issue. (GhitaB, 17.03.2019)
 - [x] Checkpoint: 50 instagram followers. (25.02.2019)
 - [x] Create Instagram account, add link in sidebar. (GhitaB, 24.02.2019)
 - [x] Add Shop section. (GhitaB, 24.02.2019)

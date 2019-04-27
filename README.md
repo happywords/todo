@@ -29,8 +29,8 @@ The public TODO list.
 - [ ] Promote website: more instagram posts.
 - [ ] Promote website: links.
 - [ ] Add romanian articles.
-- [ ] Add romanian category.
 - [x] Explore plugins. (GhitaB, 27.04.2019)
+- [x] Add romanian category. (GhitaB, 30.03.2019)
 - [x] Explore widgets. (GhitaB, 20.03.2019)
 - [x] Checkpoint: total 1000 pageviews. (19.03.2019)
 - [x] Fix favicon issue. (GhitaB, 17.03.2019)

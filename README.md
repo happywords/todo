@@ -28,7 +28,7 @@ The public TODO list.
 - [ ] Promote website: explore instagram games ideas.
 - [ ] Promote website: more instagram posts.
 - [ ] Promote website: links.
-- [ ] Add romanian articles.
+- [x] Add romanian articles. (GhitaB, 27.04.2019)
 - [x] Explore plugins. (GhitaB, 27.04.2019)
 - [x] Add romanian category. (GhitaB, 30.03.2019)
 - [x] Explore widgets. (GhitaB, 20.03.2019)

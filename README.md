@@ -25,8 +25,8 @@ The public TODO list.
 - [ ] Adapt and include Guess my number.
 - [ ] Adapt and include Puzzle with numbers.
 - [ ] Promote website: explore instagram games ideas.
-- [ ] Promote website: more instagram posts.
-- [ ] Promote website: links.
+- [x] Promote website: more instagram posts. (GhitaB, 21.07.2019)
+- [x] Promote website: links. (GhitaB, 21.07.2019)
 - [x] Finish publishing existing guitar lessons from WhatsApp group. (GhitaB, 21.07.2019)  
 - [x] Improve content structure, add menus. (GhitaB, 21.07.2019) 
 - [x] Improve contact form by adding quiz. (GhitaB, 21.07.2019) 

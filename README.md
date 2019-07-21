@@ -27,6 +27,7 @@ The public TODO list.
 - [ ] Promote website: explore instagram games ideas.
 - [ ] Promote website: more instagram posts.
 - [ ] Promote website: links.
+- [x] Finish publishing existing guitar lessons from WhatsApp group. (GhitaB, 21.07.2019)  
 - [x] Improve content structure, add menus. (GhitaB, 21.07.2019) 
 - [x] Improve contact form by adding quiz. (GhitaB, 21.07.2019) 
 - [x] Add romanian articles. (GhitaB, 27.04.2019)

@@ -5,7 +5,7 @@ The public TODO list.
 - [ ] Publish other coloring pages.
 - [ ] Adapt and include Guess my number.
 - [ ] Adapt and include Puzzle with numbers.
-- [x] Promote website: explore instagram games ideas.
+- [x] Promote website: explore instagram games ideas. (GhitaB, 21.07.2019)
 - [x] Promote website: more instagram posts. (GhitaB, 21.07.2019)
 - [x] Promote website: links. (GhitaB, 21.07.2019)
 - [x] Finish publishing existing guitar lessons from WhatsApp group. (GhitaB, 21.07.2019)  

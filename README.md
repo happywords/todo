@@ -24,10 +24,10 @@ The public TODO list.
 - [ ] Publish other coloring pages.
 - [ ] Adapt and include Guess my number.
 - [ ] Adapt and include Puzzle with numbers.
-- [ ] Improve content structure, add menus.
 - [ ] Promote website: explore instagram games ideas.
 - [ ] Promote website: more instagram posts.
 - [ ] Promote website: links.
+- [x] Improve content structure, add menus. (GhitaB, 21.07.2019) 
 - [x] Improve contact form by adding quiz. (GhitaB, 21.07.2019) 
 - [x] Add romanian articles. (GhitaB, 27.04.2019)
 - [x] Explore plugins. (GhitaB, 27.04.2019)

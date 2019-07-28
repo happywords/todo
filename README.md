@@ -4,9 +4,8 @@ The public TODO list.
 - [ ] Checkpoint: 100 instagram followers.
 - [ ] Publish other coloring pages.
 - [ ] Adapt and include Guess my number.
-- [ ] Publish Puzzle with numbers.
-- [ ] Puzzle with numbers - add message on finish.
-- [ ] Puzzle with numbers - improve design.
+- [x] Publish Puzzle with numbers.
+- [x] Puzzle with numbers - improve design.
 - [x] Adapt Puzzle with numbers. (GhitaB, 28.07.2019)
 - [x] quotes-design tool. (GhitaB, 21.07.2019)
 - [x] Promote website: explore instagram games ideas. (GhitaB, 21.07.2019)

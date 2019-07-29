@@ -3,7 +3,7 @@ The public TODO list.
 
 - [ ] Checkpoint: 100 instagram followers.
 - [ ] Publish other coloring pages.
-- [ ] Adapt and include Guess my number.
+- [x] Adapt and include Guess my number.
 - [x] Publish Puzzle with numbers.
 - [x] Puzzle with numbers - improve design.
 - [x] Adapt Puzzle with numbers. (GhitaB, 28.07.2019)

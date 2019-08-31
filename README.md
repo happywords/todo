@@ -4,6 +4,10 @@ The public TODO list.
 - [ ] Checkpoint: 100 instagram followers.
 - [ ] Publish other coloring pages.
 - [ ] Publish quick notes.
+- [ ] Update instagram.
+- [ ] Update theme.
+- [ ] Adapt logo design.
+- [ ] Change color scheme. Get rid of that green.
 - [x] Adapt and include Guess my number.
 - [x] Publish Puzzle with numbers.
 - [x] Puzzle with numbers - improve design.
